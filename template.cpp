@@ -4,6 +4,7 @@ using namespace std;
  
 #define ll long long
 #define vll vector<ll>
+#define sll set<ll>
 #define pb push_back
 #define popb pop_back
 #define pp pair
@@ -18,7 +19,4 @@ int main() {
 	ios_base::sync_with_stdio(0);
 	cin.tie(0);
 	cout.tie(0);
-    //freopen("template.in", "r", stdin); // USACO
-	//freopen("template.out", "w", stdout);
-    return 0;
 }
