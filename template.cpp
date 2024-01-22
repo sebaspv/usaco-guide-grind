@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
- 
+
 using namespace std;
- 
+
 #define ll long long
 #define vll vector<ll>
 #define sll set<ll>
@@ -14,9 +14,11 @@ using namespace std;
 #define vplll vector<plll>
 #define ff first
 #define ss second
- 
+
 int main() {
-	ios_base::sync_with_stdio(0);
-	cin.tie(0);
-	cout.tie(0);
+  ios_base::sync_with_stdio(0);
+  cin.tie(0);
+  cout.tie(0);
+  //freopen("file.in", "r", stdin); // USACO
+  //freopen("file.out", "w", stdout);
 }
